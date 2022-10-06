@@ -1,0 +1,4 @@
+graphene-django
+django-phonenumber-field = ">=4,<7" modle phonenumbers
+phonenumberslite = "^8.12.25" validate phonenumber
+opentracing = "^2.3.0"

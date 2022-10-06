@@ -38,7 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'saleor.account',
-    'saleor.graphqlApi'
+    'saleor.graphqlApi',
+    "graphene_django"
 ]
 
 MIDDLEWARE = [
